@@ -1,0 +1,13 @@
+matplotlib 
+noisereduce==2.0.0
+numpy==1.22.4
+pandas @ file:///C:/ci/pandas_1618365634936/work
+pickleshare @ file:///tmp/build/80754af9/pickleshare_1606932040724/work
+pydub==0.25.1
+seaborn
+scikit-image==0.18.1
+scikit-learn==1.1.1
+scipy @ file:///C:/ci/scipy_1618856128765/work
+sounddevice==0.4.4
+SoundFile==0.10.3.post1
+tensorflow==2.8.0
